@@ -1,0 +1,25 @@
+h1 {
+    font-family: "Times New Roman", "Brush Script MT", sans-serif;
+    text-align: center;
+    background-color: lightblue;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: black;
+}
+
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2 {
+    background-color: lightgreen;
+}
