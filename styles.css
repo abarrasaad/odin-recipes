@@ -1,12 +1,6 @@
-h1 {
-    font-family: cursive, Times, serif;
-    text-align: center;
-    color: blue;
-    margin: auto auto 16px auto;
-}
 
-p {
-    border: solid black;
+.para {
+    border: solid;
     font-family: cursive, Times, serif;
     font-size: 20px;
     padding: 8px;
@@ -16,8 +10,6 @@ li {
     font-family: cursive, Times, serif;
     font-size: 20px;
     margin-bottom: 8px;
-    color: ;
-
 }
 
 a {
@@ -28,8 +20,20 @@ a {
     display: block;
     margin-right: auto;
     margin-left: auto;
+    width: auto;
 }
 
 h2 {
     color: blue;
+}
+
+p {
+    font-family: cursive, Times, serif;
+    font-size: 20px;
+}
+
+.Logo {
+    display: block;
+    margin: auto;
+    width: 10%;
 }
